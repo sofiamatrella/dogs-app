@@ -1,0 +1,40 @@
+{
+  "dogs": [
+    {
+      "name": "Kuro",
+      "age": "5",
+      "sex": "male",
+      "size": "big",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac ligula vulputate, viverra dolor at, dignissim lectus. Pellentesque egestas aliquam leo, id scelerisque justo iaculis eu. Integer gravida felis vitae iaculis semper. Curabitur vitae feugiat diam. Sed vitae tristique nisi. In eu lorem sed sapien cursus porttitor at sit amet enim. Phasellus arcu nisl, congue in neque euismod, volutpat sodales est. In a ex ut ligula gravida aliquam. Suspendisse lobortis efficitur turpis et varius. Sed ultricies a ex ac ornare.",
+      "image": "img/1.jpg",
+      "id": 0
+    },
+    {
+      "name": "Late",
+      "age": 4,
+      "sex": "female",
+      "size": "medium",
+      "image": "img/2.jpg",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac ligula vulputate, viverra dolor at, dignissim lectus. Pellentesque egestas aliquam leo, id scelerisque justo iaculis eu. Integer gravida felis vitae iaculis semper. Curabitur vitae feugiat diam. Sed vitae tristique nisi. In eu lorem sed sapien cursus porttitor at sit amet enim. Phasellus arcu nisl, congue in neque euismod, volutpat sodales est. In a ex ut ligula gravida aliquam. Suspendisse lobortis efficitur turpis et varius. Sed ultricies a ex ac ornare.",
+      "id": 1
+    },
+    {
+      "name": "Cerebro",
+      "age": 4,
+      "sex": "female",
+      "size": "medium",
+      "image": "img/3.jpg",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac ligula vulputate, viverra dolor at, dignissim lectus. Pellentesque egestas aliquam leo, id scelerisque justo iaculis eu. Integer gravida felis vitae iaculis semper. Curabitur vitae feugiat diam. Sed vitae tristique nisi. In eu lorem sed sapien cursus porttitor at sit amet enim. Phasellus arcu nisl, congue in neque euismod, volutpat sodales est. In a ex ut ligula gravida aliquam. Suspendisse lobortis efficitur turpis et varius. Sed ultricies a ex ac ornare.",
+      "id": 2
+    },
+    {
+      "name": "Shiro",
+      "age": 6,
+      "sex": "male",
+      "size": "big",
+      "image": "img/4.jpg",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac ligula vulputate, viverra dolor at, dignissim lectus. Pellentesque egestas aliquam leo, id scelerisque justo iaculis eu. Integer gravida felis vitae iaculis semper. Curabitur vitae feugiat diam. Sed vitae tristique nisi. In eu lorem sed sapien cursus porttitor at sit amet enim. Phasellus arcu nisl, congue in neque euismod, volutpat sodales est. In a ex ut ligula gravida aliquam. Suspendisse lobortis efficitur turpis et varius. Sed ultricies a ex ac ornare.",
+      "id": 3
+    }
+  ]
+}
